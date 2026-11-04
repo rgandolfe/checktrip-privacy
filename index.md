@@ -150,7 +150,7 @@ The latest version will be published on this page, together with its update date
 **Application:** CheckTrip  
 **Platform:** Android  
 **Developer:** CheckTrip — Independent Application Developer  
-**Privacy contact:** [CONTACT_EMAIL]
+**Privacy contact:** shinyscalpapps@gmail.com
 
 ---
 
