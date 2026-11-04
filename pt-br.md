@@ -150,7 +150,7 @@ A versão mais recente será publicada nesta página, acompanhada da data de atu
 **Aplicativo:** CheckTrip  
 **Plataforma:** Android  
 **Desenvolvedor:** CheckTrip — Desenvolvedor Independente de Aplicativo  
-**Contato de privacidade:** [CONTACT_EMAIL]
+**Contato de privacidade:** shinyscalpapps@gmail.com
 
 ---
 
